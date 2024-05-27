@@ -1,4 +1,6 @@
 # SeniorProjectManagementEngineer
+## 仓库地址
+https://github.com/qiufeihong2018/SeniorProjectManagementEngineer
 ## 学习方法
 ### 1. 刷视频
 希赛视频：https://wangxiao.xisaiwang.com/wangxiao2/c250008812/sp100495284.html
